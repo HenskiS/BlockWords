@@ -9,11 +9,11 @@ words = [
     "happy birthday",
     "congratulations",
     "beth and howard",
-    "ross family",
+    "smith family",
     "its a girl",
     "its a boy",
     "kk and hector",
-    "katy and anthony",
+    "kitty and anthony",
     "home sweet home"
 ]
 
